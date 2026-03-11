@@ -1,6 +1,12 @@
 ---
 lab:
-    title: 'Perform basic Group Management tasks'
+  title: Perform basic Group Management tasks
+  description: In this exercise you will explore the beginner level tasks associated
+    with creating and using groups. You make a new group and assign members and set
+    some basic access levels.
+  duration: 15 minutes
+  level: 100
+  islab: true
 ---
 
 # Exercise - Perform basic Group Management tasks
