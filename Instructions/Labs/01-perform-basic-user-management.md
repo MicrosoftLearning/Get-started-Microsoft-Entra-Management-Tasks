@@ -1,6 +1,13 @@
 ---
 lab:
-    title: 'Perform basic User Management tasks'
+  title: Perform basic User Management tasks
+  description: In this exercise you will explore the beginner tasks of an Identity and Access administrator by creating and managing a user in Microsoft Entra ID. There are five common activities you will perform in your lab from creating a new user to assigning them roles and licenses.
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft Entra
+    - Microsoft Entra ID
 ---
 
 # Exercise - Perform basic User Management tasks
