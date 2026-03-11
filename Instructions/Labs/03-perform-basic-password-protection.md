@@ -1,6 +1,15 @@
 ---
 lab:
-    title: 'Perform basic password protection tasks'
+  title: Perform basic password protection tasks
+  description: In this exercise you will explore the capabilities Microsoft Entra
+    ID offers in protecting your password. You will see how you can automate and enforce
+    a strong password, and use login restrictions to prevent password attacks.
+  duration: 5 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft Entra
+  - Microsoft Entra ID
 ---
 
 # Exercise - Perform basic Password Protection tasks
