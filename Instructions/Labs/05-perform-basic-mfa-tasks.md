@@ -1,6 +1,11 @@
 ---
 lab:
-    title: Perform basic Mulitfactor Authentication tasks
+  title: Perform basic Mulitfactor Authentication tasks
+  description: In this exercise you will explore the MFA setup process and configure
+    a basic MFA deployment.
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
 
 # Exercise - Perform basic Multifactor Authentication tasks
