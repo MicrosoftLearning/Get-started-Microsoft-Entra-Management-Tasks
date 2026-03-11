@@ -1,6 +1,11 @@
 ---
 lab:
-    title: Perform basic Conditional Access policy tasks
+  title: Perform basic Conditional Access policy tasks
+  description: In this exercise you will learn to create and configure a Conditional
+    Access policy and test its results with the What If analysis tool.
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
 
 # Exercise - Perform basic Conditional Access policy tasks
