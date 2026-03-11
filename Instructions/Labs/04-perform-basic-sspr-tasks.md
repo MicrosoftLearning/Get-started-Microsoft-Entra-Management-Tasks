@@ -1,6 +1,13 @@
 ---
 lab:
-    title: Perform basic Self-Service Password Rest (SSPR) tasks
+  title: Perform basic Self-Service Password Rest (SSPR) tasks
+  description: In this exercise you will learn where the self-service password reset
+    feature is located in Microsoft Entra and explore the process to configure it.
+  duration: 15 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft Entra
 ---
 
 # Exercise - Perform basic Self-Service Password Rest (SSPR) tasks
