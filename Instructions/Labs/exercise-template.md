@@ -4,7 +4,7 @@ lab:
   description: Before you can start this exercise, you will need to...
   duration: 72 minutes
   level: 100
-  islab: true
+  islab: false
 ---
 
 <!--
