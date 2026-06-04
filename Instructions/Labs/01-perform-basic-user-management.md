@@ -64,7 +64,7 @@ This exercise should take approximately **10** minutes to complete.
 ## Task 2 - Add a license to the user
 
 1. Open a new tab in your browser.
-1. Connect to the [Microsoft 365 admin center](https://admin.microsoft.com) at `https//:admin.microsoft.com`.
+1. Connect to the [Microsoft 365 admin center](https://admin.microsoft.com) at `https://admin.microsoft.com`.
 1. If prompted, log in using the credentials for your tenant.
 1. Find the menu on the left side of the screen.
 1. Open the **Billing** item in the menu.
